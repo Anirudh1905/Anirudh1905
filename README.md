@@ -7,8 +7,8 @@
 - 📫 How to reach me: https://www.anirudhsridhar.xyz/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: There is more crowd in Data Science than people usually think as every other profile states "**Data Science Enthusiast**"
-<br><br>
-**Languages and Tools:**  
+
+### Languages and Tools:  
 <br>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg">
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/java.svg"></code>
@@ -17,7 +17,8 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 <br><br>
-
+### Stats:
+<br>
 <a href="https://github.com/Anirudh1905">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh1905&show_icons=true&theme=dark&line_height=27" alt="Anirudh's github stats"/>
 </a>

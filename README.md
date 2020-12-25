@@ -35,7 +35,7 @@
     <img align="left" alt="Anirudh Sridhar | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
   </a>
 <a href="https://m.facebook.com/anirudhsridhar1905">
-    <img align="left" alt="Anirudh Sridhar | Facebook" width="24px" src="" />
+    <img align="left" alt="Anirudh Sridhar | Facebook" width="24px" src="https://github.com/Anirudh1905/Anirudh1905/blob/main/facebook.svg" />
   </a>
 <a href="https://mobile.twitter.com/Anirudh_1905">
     <img align="left" alt="Anirudh Sridhar | Twitter" width="24px" src="https://github.com/Anirudh1905/Anirudh1905/blob/main/twitter.svg" />

@@ -1,5 +1,4 @@
-### Hey, Anirudh Here 👋
-
+### Hey, [Anirudh Here](https://www.anirudhsridhar.xyz/) 👋
 
 - 🔭 I’m currently working on Problem Solving
 - 🌱 I’m currently learning NLP

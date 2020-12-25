@@ -20,18 +20,5 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh1905&show_icons=true&theme=dark&line_height=27" alt="Anirudh's github stats"/>
 </a>
 <a> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh1905&theme=dark&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB&card_width=445" />
-</a><br>
-## 💬 Let's Connect
-    
-<a href="https://www.linkedin.com/in/utkarsh-chaurasia-a4b76a17b/">
-    <img align="left" alt="Utkarsh Chaurasia | Linkedin" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Linkedin.svg" />
-</a>
-  
-  
-  <a href="https://medium.com/@utkarsh103b">
-    <img align="left" alt="Utkarsh Chaurasia | Medium" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/medium.svg" />
-  </a>
-  
-  <a href="https://www.instagram.com/utkarsh_chaurasia.12/?hl=en">
-    <img align="left" alt="Utkarsh Chaurasia | Instagram" width="24px" src="https://github.com/UtkarshChaurasia/UtkarshChaurasia/blob/master/Assets/Icons/Instagram.svg" />
-  </a>
+</a>  
+

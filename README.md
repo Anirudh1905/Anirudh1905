@@ -15,7 +15,7 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </code><br>
-### Stats
+### Stats 📈
 <a href="https://github.com/Anirudh1905">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh1905&show_icons=true&theme=dark&line_height=27" alt="Anirudh's github stats"/>
 </a>

@@ -7,5 +7,5 @@
 - 💬 Ask me about Machine Learning, Deep Learning or Data Analytics
 - 📫 How to reach me: https://www.anirudhsridhar.xyz/
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: There is more crowd in Data Science than people naturally think as every other profile on linkedin states "Data Science Enthusiast"
+- ⚡ Fun fact: There is more crowd in Data Science than people naturally think as every other profile states "Data Science Enthusiast"
 

@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Machine Learning, Deep Learning or Data Analytics
 - 📫 How to reach me: https://www.anirudhsridhar.xyz/
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is more crowd in Data Science than people usually think as every other profile states "**Data Science Enthusiast**"
 
 ### Languages and Tools 

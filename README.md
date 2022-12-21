@@ -1,7 +1,7 @@
 ### Hey, [Anirudh Here](https://www.anirudhsridhar.xyz/) 👋
 
 - 🔭 I’m currently working on Machine Learning
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning MLOps
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about Machine Learning, Deep Learning or Data Analytics
 - 📫 How to reach me: https://www.anirudhsridhar.xyz/

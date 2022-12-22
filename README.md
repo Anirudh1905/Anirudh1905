@@ -8,12 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There is more crowd in Data Science than people usually think as every other profile states "**Data Science Enthusiast**"
 
-### Languages and Tools 
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-plusplus.svg">
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c.svg"></code>
-<code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/python.svg"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-</code><br>
 ### Stats 📈
 <a href="https://github.com/Anirudh1905">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh1905&show_icons=true&theme=dark&line_height=27" alt="Anirudh's github stats"/>

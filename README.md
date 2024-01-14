@@ -3,12 +3,12 @@
 ###
 
 <div align="center">
-  <img align="center" width="600" height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+  <img width="600" height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 </div>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats</h3>
+<h2 align="left">🔥   My Stats</h2>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<h3 align="left">🌐 Lets Connect</h3>
+<h2 align="left">🌐 Lets Connect</h2>
 
 ###
 

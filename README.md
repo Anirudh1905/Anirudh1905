@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I'm a MLOps Engineer from Bengaluru, India<br><br>- 🔭 Working on building a ML platform for seamless deployment of ML models<br>- 🌱 Learning the ropes of MLOps, exploring new tools, and honing my skills to optimize ML workflows.<br>- 👯 Open to collaborating on Large Language Model (LLM) projects—let's build something amazing together!<br>- 💬 Ask me about Machine Learning, Deep Learning and MLOps<br>- ⚡ Fun fact: Did you know that the field of Data Science is bustling with enthusiasts?<br>- 📫 Connect and geek out over ML and MLOps—drop me a message or find me on <a href="https://www.linkedin.com/in/anirudh-sridhar-1905/" target="_blank">LinkedIn</a>. Let's talk tech!<br></p>
+<p align="left">I'm a MLOps Engineer from Bengaluru, India<br><br>- 🔭 Working on building a ML platform for seamless deployment of ML models<br>- 🌱 Learning the ropes of MLOps, exploring new tools, and honing my skills to optimize ML workflows.<br>- 👯 Open to collaborating on Large Language Model (LLM) projects—let's build something amazing together!<br>- 💬 Ask me about Machine Learning, Deep Learning and MLOps<br>- ⚡ Fun fact: "Turning coffee into code and data into insights with a sprinkle of machine learning magic ✨☕️📊"<br>- 📫 Connect and geek out over ML and MLOps—drop me a message or find me on <a href="https://www.linkedin.com/in/anirudh-sridhar-1905/" target="_blank">LinkedIn</a>. Let's talk tech!<br></p>
 
 ###
 

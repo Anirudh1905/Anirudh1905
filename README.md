@@ -1,11 +1,10 @@
-<div style="max-width: 400px; margin: 0 auto;">
-<div align="center">
-  <img height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
-</div>
+<h1 align="center">Hey, Anirudh here 👋</h1>
 
 ###
 
-<h1 align="center">Hey, Anirudh here 👋</h1>
+<div align="center">
+  <img height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+</div>
 
 ###
 
@@ -64,19 +63,18 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anirudh-sridhar-1905/" target="_blank">
+  <a href="https://www.linkedin.com/in/anirudh-sridhar-1905/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>&nbsp;&nbsp;
-  <a href="anirudhsridhar1905@gmail.com" target="_blank">
+  <a href="anirudhsridhar1905@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@anirudhsridhar1905" target="_blank">
+  <a href="https://medium.com/@anirudhsridhar1905" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/Anirudh_1905" target="_blank">
+  <a href="https://twitter.com/Anirudh_1905" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
 ###
-</div>

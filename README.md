@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+  <img width="600" height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 </div>
 
 ###
@@ -63,21 +63,21 @@
 ###
 
 <div align="center">
-  <span style="cursor: pointer;" onclick="window.open('https://www.linkedin.com/in/anirudh-sridhar-1905/', '_blank')">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </span>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/anirudh-sridhar-1905/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo"  />
+  </a>&nbsp;&nbsp;
   
-  <span style="cursor: pointer;" onclick="window.open('mailto:anirudhsridhar1905@gmail.com')">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </span>&nbsp;&nbsp;
+  <a href="mailto:anirudhsridhar1905@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo"  />
+  </a>&nbsp;&nbsp;
   
-  <span style="cursor: pointer;" onclick="window.open('https://medium.com/@anirudhsridhar1905', '_blank')">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
-  </span>&nbsp;&nbsp;
+  <a href="https://medium.com/@anirudhsridhar1905" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="medium logo"  />
+  </a>&nbsp;&nbsp;
   
-  <span style="cursor: pointer;" onclick="window.open('https://twitter.com/Anirudh_1905', '_blank')">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </span>
+  <a href="https://twitter.com/Anirudh_1905" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="twitter logo"  />
+  </a>
 </div>
 
 ###

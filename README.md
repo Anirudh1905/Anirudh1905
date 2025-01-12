@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img width="600" height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
+  <img width="600" height="229" src="https://user-images.githubusercontent.com/73838190/212750147-854a394f-fee9-3880-9770-78a4b7ece53f.gif"  />
 </div>
 
 ###
@@ -21,37 +21,37 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="fastapi logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="38" alt="tensorflow logo"  />
   &nbsp;&nbsp;
-  <img src="https://github.com/Anirudh1905/Anirudh1905/blob/main/icons/Apache%20Airflow.svg" height="40" alt="airflow logo"  />
+  <img src="https://github.com/Anirudh1905/Anirudh1905/blob/main/icons/Apache%20Airflow.svg" height="38" alt="airflow logo"  />
   &nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/61449322?v=4" height="40" alt="mlflow logo"  />
+  <img src="https://avatars.githubusercontent.com/u/61449322?v=4" height="38" alt="mlflow logo"  />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="38" alt="kafka logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="38" alt="redis logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="postgres logo"  />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="dynamodb logo"  />
+  <img src="https://skillicons.dev/icons?i=dynamodb" height="38" alt="dynamodb logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="38" alt="amazonwebservices logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="38" alt="docker logo"  />
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="38" alt="kubernetes logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="38" alt="terraform logo"  />
   &nbsp;&nbsp;
-  <img src="https://github.com/Anirudh1905/Anirudh1905/blob/main/icons/GitHub%20Actions.svg" height="40" alt="github actions logo"  />
+  <img src="https://github.com/Anirudh1905/Anirudh1905/blob/main/icons/GitHub%20Actions.svg" height="38" alt="github actions logo"  />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="38" alt="grafana logo"  />
   &nbsp;&nbsp;
 </div>
 

@@ -29,6 +29,8 @@
   &nbsp;&nbsp;
   <img src="https://github.com/Anirudh1905/Anirudh1905/blob/main/icons/Apache%20Airflow.svg" height="40" alt="airflow logo"  />
   &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/61449322?v=4" height="40" alt="mlflow logo"  />
+  &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="kafka logo"  />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />

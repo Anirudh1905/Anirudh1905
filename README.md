@@ -3,6 +3,12 @@
 ###
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=LLM+%2F+ML+Engineer;Building+multi-agent+systems+with+LangGraph;RAG+%E2%80%A2+Agents+%E2%80%A2+LLMOps;Shipping+ML+to+production" alt="Typing SVG" />
+</div>
+
+###
+
+<div align="center">
   <img width="600" height="229" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"  />
 </div>
 
